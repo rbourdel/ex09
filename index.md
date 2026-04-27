@@ -12,6 +12,7 @@ layout: default
 ## Chart 1
 We first looked at how the entire sample of students rated the idea of pre-lecture videos.
 ![Bar Chart](static/chart1_bar.png)
+
 The spread of support was the following: 
 22 students reported a 1
 18 students reported a 2
@@ -33,6 +34,7 @@ We investigated whether students who find the course more difficult are also mor
 
 ## Chart 3
 We compared how students with no prior programming experience rate pre-lecture videos versus students with 7+ months of experience. This was achieved through the following histogram.
+
 ![Histogram](static/chart3_hist.png)
 
 ## It appears that students with no experience support pre-lecture videos more strongly. However, it is hard to decipher without statistical analyses (i.e. linear regression).
