@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: COMP110 Exercise 09
+email: rbourdel@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This website has been built for Rex Bourdelais' exercise 09 for COMP110.
 baseurl: "/ex09" # the subpath of your site, e.g. /blog
-url: "https://rbourdel.github.io/ex09" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://rbourdel.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username: rbourdel
 
 # Build settings
 # Build settings
